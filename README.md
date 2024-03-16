@@ -19,9 +19,7 @@ This project aims to predict the purity and price of honey using unsupervised ma
 - Segment the honey dataset using unsupervised machine learning algorithms.
 - Determine the appropriate number of clusters.
 - Identify the characteristics of each cluster.
-- Analyze the factors influencing honey purity and price.
-- Provide managerial insights for decision-making in the honey industry.
-
+.
 ## Data Description:
 - **Data Source:** Kaggle (Predict Purity and Price of Honey)
   - [Dataset Link](https://www.kaggle.com/datasets/stealthtechnologies/predict-purity-and-price-of-honey)
